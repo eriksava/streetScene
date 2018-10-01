@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\Tiempo\EscalarTiempo.cs" />
     <Compile Include="Assets\Scripts\Tiempo\TiempoDelta.cs" />
     <Compile Include="Assets\Scripts\Tiempo\TiempoPasado.cs" />
+    <Compile Include="Assets\Scripts\Transform\MirarHacia.cs" />
     <Compile Include="Assets\Scripts\Transform\TrasladarObjeto.cs" />
     <Compile Include="Assets\Scripts\Vector3\Vector3Movimiento.cs" />
     <Compile Include="Assets\Scripts\Vector3\VectorNuevo.cs" />
